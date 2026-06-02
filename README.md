@@ -48,4 +48,4 @@ Using dotnet CLI
 Feel free to open issues or pull requests. Keep changes small and add tests where applicable.
 
 ## License
-MIT — see LICENSE file (or add one if needed).
+<//..//>
